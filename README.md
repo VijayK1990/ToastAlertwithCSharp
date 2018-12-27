@@ -3,7 +3,7 @@ Toast Alert Library written in C# mapping the JavaScript function
 
 Simple Implementation
 
-protected void BtnShowToast_Click(object sender, EventArgs e)
+   protected void BtnShowToast_Click(object sender, EventArgs e)
         {
             ToastAlert Toal = new ToastAlert()
             {
